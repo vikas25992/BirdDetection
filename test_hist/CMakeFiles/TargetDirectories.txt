@@ -1,0 +1,3 @@
+/home/vikas/Desktop/Main/trail2/test_hist/CMakeFiles/edit_cache.dir
+/home/vikas/Desktop/Main/trail2/test_hist/CMakeFiles/rebuild_cache.dir
+/home/vikas/Desktop/Main/trail2/test_hist/CMakeFiles/test_hist.dir

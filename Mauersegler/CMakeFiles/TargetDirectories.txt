@@ -1,0 +1,3 @@
+/home/vikas/Desktop/Main/trail3/Mauersegler/CMakeFiles/edit_cache.dir
+/home/vikas/Desktop/Main/trail3/Mauersegler/CMakeFiles/rebuild_cache.dir
+/home/vikas/Desktop/Main/trail3/Mauersegler/CMakeFiles/Mauersegler.dir

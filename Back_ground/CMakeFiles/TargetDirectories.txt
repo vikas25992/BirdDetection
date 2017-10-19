@@ -1,0 +1,3 @@
+/home/vikas/Desktop/Main/trail3/Back_ground/CMakeFiles/edit_cache.dir
+/home/vikas/Desktop/Main/trail3/Back_ground/CMakeFiles/rebuild_cache.dir
+/home/vikas/Desktop/Main/trail3/Back_ground/CMakeFiles/Back_ground.dir

@@ -1,0 +1,3 @@
+/home/vikas/Desktop/Main/trail3/CMakeFiles/edit_cache.dir
+/home/vikas/Desktop/Main/trail3/CMakeFiles/rebuild_cache.dir
+/home/vikas/Desktop/Main/trail3/CMakeFiles/TrainSVM.dir
